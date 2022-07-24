@@ -1,3 +1,6 @@
+## 東京電機大学
+# システムデザイン工学研究科　修士課程　情報システム工学専攻
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/shu010/ShuYAMAMOTO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
