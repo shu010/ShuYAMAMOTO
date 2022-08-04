@@ -1,6 +1,8 @@
 # About Me
 Shu YAMAMOTO（山本　周）
+
 Tokyo Denki University
+
 Visual Perception & Recognition Lab advised by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en)
 
 
