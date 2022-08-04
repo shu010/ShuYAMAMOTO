@@ -2,8 +2,7 @@
 Shu YAMAMOTO（山本　周）
 
 Tokyo Denki University
-Visual Perception & Recognition Lab advised by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en)
-
+[Visual Perception & Recognition Lab advised](https://033lab.org) by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en)
 
 # Research
 - Computer Vision
