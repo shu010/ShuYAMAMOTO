@@ -1,6 +1,22 @@
-## 東京電機大学
-### システムデザイン工学研究科　修士課程　情報システム工学専攻
-### [知覚情報処理研究室（小篠研）](https://033lab.org)
-〒120-8551　東京都足立区千住旭町5番
+# About Me
+Shu YAMAMOTO（山本　周）
+Tokyo Denki University
+Visual Perception & Recognition Lab advised by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en)
 
-Email：22amj26@ms.dendai.ac.jp
+
+# Research Interest
+Key workds
+- Computer Vision
+- Machine Learning
+- Hyperspectral Imaging
+
+
+# Education
+- 2022.04 - Present: M.S in Tokyo Denki University
+- 2018.04 - 2022.03: B.S in Tokyo Denki University
+
+
+# Publications
+## Domestic Conference (Japanese)
+1. <u>山本周</u>，小篠裕子，“ハイパースペクトルデータ分類における前処理に関する一考察”第25回 画像の認識・理解シンポジウム（MIRU），2022
+
