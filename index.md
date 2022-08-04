@@ -2,21 +2,17 @@
 Shu YAMAMOTO（山本　周）
 
 Tokyo Denki University
-
 Visual Perception & Recognition Lab advised by [Yuko Ozasa（小篠 裕子）](https://researchmap.jp/yuko.ozasa?lang=en)
 
 
-# Research Interest
-Key workds
+# Research
 - Computer Vision
 - Machine Learning
 - Hyperspectral Imaging
 
-
 # Education
 - 2022.04 - Present: M.S in Tokyo Denki University
 - 2018.04 - 2022.03: B.S in Tokyo Denki University
-
 
 # Publications
 ## Domestic Conference (Japanese)
